@@ -12,6 +12,7 @@ declare -A RENAME_MAP=(
 declare -A EXTRA_FILES=(
     [Image.gz]="../Image.gz"
     [mt6879.dtb]="../dtb/mt6879.dtb"
+    [dtbo.img]="../dtbo.img"
 )
 
 # clear previous log
